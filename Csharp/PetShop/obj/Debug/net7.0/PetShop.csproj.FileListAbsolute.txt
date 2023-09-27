@@ -1,0 +1,7 @@
+C:\Users\djuli\Downloads\Csharp\PetShop\obj\Debug\net7.0\PetShop.csproj.AssemblyReference.cache
+C:\Users\djuli\Downloads\Csharp\PetShop\obj\Debug\net7.0\PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djuli\Downloads\Csharp\PetShop\obj\Debug\net7.0\PetShop.AssemblyInfoInputs.cache
+C:\Users\djuli\Downloads\Csharp\PetShop\obj\Debug\net7.0\PetShop.AssemblyInfo.cs
+C:\Users\djuli\Downloads\Csharp\PetShop\obj\Debug\net7.0\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\djuli\Downloads\Csharp\PetShop\obj\Debug\net7.0\PetShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\djuli\Downloads\Csharp\PetShop\obj\Debug\net7.0\PetShop.MvcApplicationPartsAssemblyInfo.cache
